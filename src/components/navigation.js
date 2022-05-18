@@ -1,0 +1,14 @@
+export {default as Home} from "./Home";
+export {default as Rutas} from "./Rutas";
+export {default as AldeaObispo} from "./AldeaObispo";
+export {default as Malaga} from "./Malaga";
+export {default as SanSebastian} from "./SanSebastian";
+export {default as Covadonga} from "./Covadonga";
+export {default as Galicia} from "./Galicia";
+export {default as Sevilla} from "./Sevilla";
+export {default as LaRioja} from "./LaRioja";
+export {default as Valdepenas} from "./Valdepenas";
+export {default as Zaragoza} from "./Zaragoza";
+export {default as Valencia} from "./Valencia";
+export {default as Barcelona} from "./Barcelona";
+export {default as Merida} from "./Merida";
