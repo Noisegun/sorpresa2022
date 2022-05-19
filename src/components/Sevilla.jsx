@@ -1,70 +1,37 @@
-
 function Sevilla()
 {
     return(<>
         <div style={{margin: "2em"}}>
-            <h1>Has escogido... ¡Aldea del Obispo!</h1>
+            <h1>Has escogido... ¡Sevilla!</h1>
             <h3>Durante 3 días (o 3 noches y 4 días) estaremos aquí...</h3>
             <div className="mapouter">
                 <div className="gmap_canvas">
-                    <iframe width="1000" title="Aldea del Obispo" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Aldea%20del%20Obispo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
+                    <iframe width="1000" title="Aldea del Obispo" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Hotel%20Hilton%20Inn%20Sevilla&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
                 </div>
             </div>
         </div>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Este plan es un poco diferente a lo que estás acostumbrada. O no. No importa. Estas son las alternativas alrededor, pero claro, también
-            puedes escoger algo totalmente diferente, que sea vivir en la habitación y no salir nada más que para comer. Y que nos traigan el champán
-            a la habitación y todo...
+            Mira que tengo ganas de visitar esta ciudad, pero igual tu elección para Junio no ha sido la más acertada, jajajaja En cualquier caso, esta ciudad
+            tiene un encanto especial y como no conoces Andalucía, me parecía una ciudad preciosa por donde empezar que ninguno de los dos conociéramos. Tenemos
+            un montón de cosas que ver de turismo si quieres, pero si no te apetece siempre podemos quedarnos en la habitación y pedir champán...
         </p>
-        <img alt="Hotel Eurostars Aldea del Obispo" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/267161955.jpg?k=95a72c1af652db7fe4d5288d94e310bda63e0c5a76e33a8c4a667951ec0a048b&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Sevilla" src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/16643898.jpg?k=394ffc2c6754fd15d8b91aa5b7639ac124850ad88927f782e7a922fd1f177312&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Pero si quieres hacer turismo, esto es lo que tenemos. Alrededor del Hotel reconstruido en un fuerte, tenemos el pueblo en sí mismo de Aldea del Obispo, pero también tenemos Almeida (Portugal),
-            el Yacimiento Arqueológico Siega Verde y como gran ciudad cercana, Ciudad Rodrigo.
+            Pero si quieres hacer turismo, esto es lo que tenemos alrededor: El Real Alcázar (que si quieres pasar debemos coger las entradas antes que hay mucha cola de
+            normal), la Catedral de Sevilla, el Archivo de Indias, la famosísima Torre del Oro, la famosísima Plaza de España, el parque de María Luisa, el barrio de
+            Triana, el Metropol Parasol, el barrio de Santa Cruz (tranquila, no es Tenerife) y el museo de Bellas Artes.
         </p>
-        <h4 style={{paddingLeft: "1.25em"}}>Almeida</h4>
-        <img src="https://photo980x880.mnstatic.com/288d254e08cb8e045119ac8473a4dc49/almeida_portugal-7863392.jpg" width={"500px"} alt="Almeida" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Metropol Parasol</h4>
+        <img src="https://images.squarespace-cdn.com/content/v1/5a86b05bcf81e0af04936cc7/1584644258274-YSK5A6B2QWFIR523R84I/que-ver-en-sevilla-metropol.jpg?format=750w" width={"500px"} alt="Almeida" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Plaza de España</h4>
+        <img src="https://images.squarespace-cdn.com/content/v1/5a86b05bcf81e0af04936cc7/1584643385734-03RB1C5FP1GLLSX70GTU/que-ver-en-sevilla-plaza-espana.jpg" width={"500px"} alt="Ciudad Rodrigo" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Parque de María Luisa</h4>
+        <img src="https://images.squarespace-cdn.com/content/v1/5a86b05bcf81e0af04936cc7/1584643488417-H71WU52BHNKZS7IK7Q15/que-ver-en-sevilla-parque.jpg" width={"500px"} alt="Siega Verde" style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            En Almeida, los puntos de interés son los siguientes:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Castillo de Almeida</li>
-                <li>Picadeiro d'el Rey</li>
-                <li>Torre do Relogio de Almeida</li>
-            </ul>
-        </p>
-        <h4 style={{paddingLeft: "1.25em"}}>Ciudad Rodrigo</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/RI-53-0000010.jpg" width={"500px"} alt="Ciudad Rodrigo" style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            En Ciudad Rodrigo tenemos los siguientes puntos de interés:
+            En el tema de Restaurantes y dónde comer... Lo veremos allí porque hay tantos lugares donde comer bien que quizás prefieras improvisar.
         </p>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Murallas</li>
-                <li>Catedral de Santa María</li>
-                <li>Castillo de Enrique II</li>
-                <li>Plaza Mayor</li>
-                <li>Plaza del Buen Alcalde</li>
-                <li>Palacio de Moctezuma</li>
-                <li>Plaza del Conde</li>
-                <li>Tres Columnas</li>
-            </ul>
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Y para comer, tenemos estos sitios sí o sí:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Mesón de La Paloma</li>
-                <li>La Canóniga</li>
-            </ul>
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Y luego, el propio Yacimiento Arqueológico de Siega Verde...
-        </p>
-        <img src="https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/siega-verde.ficheros/39902-37145_SC_5.jpg?clipX=0&clipY=27&clipWidth=1440&clipHeight=520" width={"500px"} alt="Siega Verde" style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            ¿Estás lista para la aventura, pequeña?
+            ¿Te apetece que vayamos a pasar calor, pequeña?
         </p>
     </>);
 }

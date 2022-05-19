@@ -1,9 +1,8 @@
-
 function Valdepenas()
 {
     return(<>
         <div style={{margin: "2em"}}>
-            <h1>Has escogido... ¡Aldea del Obispo!</h1>
+            <h1>Has escogido... ¡Valdepeñas!</h1>
             <h3>Durante 3 días (o 3 noches y 4 días) estaremos aquí...</h3>
             <div className="mapouter">
                 <div className="gmap_canvas">
