@@ -6,7 +6,7 @@ function Rutas()
     return(
         <React.Fragment>
             <div className="navigation">
-                <nav className="navbar navbar-expand navbar-dark bg-dark">
+                <nav className="navbar navbar-expand navbar-dark bg-dark" style={{position: "fixed !important", minWidth: "390px !important"}}>
                     <div className="container">
                         <NavLink className="navbar-brand" to="/">
                             Sorpresa 2022 - Elige tu propia aventura... ¿Elegirás bien?
