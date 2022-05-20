@@ -6,7 +6,7 @@ function AldeaObispo()
             <h3>Durante 3 días (o 3 noches y 4 días) estaremos aquí...</h3>
             <div className="mapouter">
                 <div className="gmap_canvas">
-                    <iframe width="1000" title="Aldea del Obispo" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Aldea%20del%20Obispo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
+                    <iframe width="470" title="Aldea del Obispo" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Aldea%20del%20Obispo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
                 </div>
             </div>
         </div>
@@ -15,7 +15,7 @@ function AldeaObispo()
             puedes escoger algo totalmente diferente, que sea vivir en la habitación y no salir nada más que para comer. Y que nos traigan el champán
             a la habitación y todo...
         </p>
-        <img alt="Hotel Eurostars Aldea del Obispo" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/267161955.jpg?k=95a72c1af652db7fe4d5288d94e310bda63e0c5a76e33a8c4a667951ec0a048b&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Eurostars Aldea del Obispo" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/267161955.jpg?k=95a72c1af652db7fe4d5288d94e310bda63e0c5a76e33a8c4a667951ec0a048b&o=&hp=1" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Pero si quieres hacer turismo, esto es lo que tenemos. Alrededor del Hotel reconstruido en un fuerte, tenemos el pueblo en sí mismo de Aldea del Obispo, pero también tenemos Almeida (Portugal),
             el Yacimiento Arqueológico Siega Verde y como gran ciudad cercana, Ciudad Rodrigo.

@@ -13,7 +13,9 @@ import Metropolitano from './components/Metropolitano';
 import Escorial from './components/Escorial';
 import Buitrago from './components/Buitrago';
 import Robledo from './components/Robledo';
+import PlanLibre from './components/PlanLibre';
 import Restaurantes from './components/Restaurantes';
+import SorpresasAdicionales from './components/SorpresasAdicionales';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -44,6 +46,8 @@ root.render(
           <Route path="/Robledo" element={<Robledo/>} />
           <Route path="/Metropolitano" element={<Metropolitano/>} />
           <Route path="/Escorial" element={<Escorial/>} />
+          <Route path="/PlanLibre" element={<PlanLibre/>} />
+          <Route path="/SorpresasAdicionales" element={<SorpresasAdicionales/>} />
         </Routes>
     </Router>
   </>
