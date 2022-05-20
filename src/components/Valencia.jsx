@@ -15,7 +15,7 @@ function Valencia()
             en ella. La he metido sólo porque llevo sin ir desde 2017 y tú no la conoces, y es una ciudad preciosa. La ciudad de las artes y las ciencias, la catedral y el casco antiguo, el antiguo circuito
             de F1... Y eso sin hablar de la gastronomía, que es espectacular.
         </p>
-        <img alt="Hotel Eurostars Rey Don Jaime" src="https://pix10.agoda.net/hotelImages/5077125/0/886fa5619e9200f0fb923d506b99bcca.jpg?ca=23&ce=0&s=1024x768" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Eurostars Rey Don Jaime" src="https://pix10.agoda.net/hotelImages/5077125/0/886fa5619e9200f0fb923d506b99bcca.jpg?ca=23&ce=0&s=1024x768" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <h4 style={{paddingLeft: "1.25em"}}>Ciudad de las Artes y Ciencias</h4>
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Ciutat_de_les_Arts_i_les_Ci%C3%A8ncies.jpg" width={"500px"} alt="Artes" style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <h4 style={{paddingLeft: "1.25em"}}>Mercado Central</h4>

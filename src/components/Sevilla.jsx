@@ -15,7 +15,7 @@ function Sevilla()
             tiene un encanto especial y como no conoces Andalucía, me parecía una ciudad preciosa por donde empezar que ninguno de los dos conociéramos. Tenemos
             un montón de cosas que ver de turismo si quieres, pero si no te apetece siempre podemos quedarnos en la habitación y pedir champán...
         </p>
-        <img alt="Hotel Sevilla" src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/16643898.jpg?k=394ffc2c6754fd15d8b91aa5b7639ac124850ad88927f782e7a922fd1f177312&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Sevilla" src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/16643898.jpg?k=394ffc2c6754fd15d8b91aa5b7639ac124850ad88927f782e7a922fd1f177312&o=&hp=1" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Pero si quieres hacer turismo, esto es lo que tenemos alrededor: El Real Alcázar (que si quieres pasar debemos coger las entradas antes que hay mucha cola de
             normal), la Catedral de Sevilla, el Archivo de Indias, la famosísima Torre del Oro, la famosísima Plaza de España, el parque de María Luisa, el barrio de

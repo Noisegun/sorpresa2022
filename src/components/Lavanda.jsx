@@ -18,10 +18,10 @@ function Lavanda()
             nos gusten los grupos, pero la floración y los campos sí podríamos verlos, además de escaparnos de turismo a unos cuantos kilómetros
             de Madrid.
         </p>
-        <img alt="Brihuega1" src="https://guias-viajar.com/wp-content/uploads/2017/07/brihuega-lavanda-003-2.jpg" width={"700px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
-        <img alt="Brihuega2" src="https://www.elrincondesele.com/wp-content/uploads/2020/06/Campos-de-lavanda-de-Brihuega-Gu%C3%ADa-pr%C3%A1ctica-2020.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Brihuega3" src="https://jdiezfoto.es/wp-content/gallery/via-lactea-campos-de-lavanda-2020/LavandaBrihuega_ViaLactea_DSC_8417.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Brihuega4" src="https://www.sehacecaminoalandar.com/wp-content/uploads/campos-lavanda-brihuega-atardecer.jpg" width={"650px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Brihuega1" src="https://guias-viajar.com/wp-content/uploads/2017/07/brihuega-lavanda-003-2.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Brihuega2" src="https://www.elrincondesele.com/wp-content/uploads/2020/06/Campos-de-lavanda-de-Brihuega-Gu%C3%ADa-pr%C3%A1ctica-2020.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Brihuega3" src="https://jdiezfoto.es/wp-content/gallery/via-lactea-campos-de-lavanda-2020/LavandaBrihuega_ViaLactea_DSC_8417.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Brihuega4" src="https://www.sehacecaminoalandar.com/wp-content/uploads/campos-lavanda-brihuega-atardecer.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginTop: "2em"}}>
             ¿Te apetece acompañarme, pequeña?
         </p>

@@ -15,7 +15,7 @@ function Galicia()
             </div>
         </div>
         <h4 style={{paddingLeft: "1.25em"}}>Hotel Vilavella - Spa</h4>
-        <img alt="Hotel Vilavella" src="https://hotelspavilavella.es/wp-content/uploads/2020/08/hv2020_032-1170x780.jpg" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Vilavella" src="https://hotelspavilavella.es/wp-content/uploads/2020/08/hv2020_032-1170x780.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Este hotel es para no salir del hotel ni ver los alrededores siquiera... Pero si por si acaso quieres que hagamos turismo, tenemos cerca la presa de Pías en Zamora y también
             tenemos Portugal a tiro de piedra. La ciudad grande más cercana es Ourense, que está a menos de una hora.
@@ -29,7 +29,7 @@ function Galicia()
             </div>
         </div>
         <h4 style={{paddingLeft: "1.25em"}}>Hotel Pazo do Río, Montrove</h4>
-        <img alt="Hotel Pazo do Rio" src="http://www.galiciacalidadelecer.gal/wp-content/uploads/Hotel_Pazo_do_Rio_-_A_coruna.jpg" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Pazo do Rio" src="http://www.galiciacalidadelecer.gal/wp-content/uploads/Hotel_Pazo_do_Rio_-_A_coruna.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Las ventajas de este hotel son que tenemos A Coruña al lado del hotel y, además, tiene playas y la ría al lado.
         </p>
@@ -42,7 +42,7 @@ function Galicia()
             </div>
         </div>
         <h4 style={{paddingLeft: "1.25em"}}>Hotel Abeiras, Ensenada de O Bao</h4>
-        <img alt="Hotel Abeiras" src="https://cf.bstatic.com/xdata/images/hotel/max500/4797827.jpg?k=bd13a4cc60e578a825f075757e771b68f465d9d62bdf2288bbab234cba87e662&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Abeiras" src="https://cf.bstatic.com/xdata/images/hotel/max500/4797827.jpg?k=bd13a4cc60e578a825f075757e771b68f465d9d62bdf2288bbab234cba87e662&o=&hp=1" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Este hotel está emplazado en uno de los mejores lugares de toda Galicia. Y alrededor tenemos todas las Rias Baixas para explorar.
         </p>

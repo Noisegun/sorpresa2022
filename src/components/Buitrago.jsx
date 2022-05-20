@@ -17,10 +17,10 @@ function Buitrago()
             Y también, si quieres, puedo contarte la historia de aquél campamento y de cómo la canción de Volver a Disfrutar de El Canto
             del Loco me inició en la adolescencia.
         </p>
-        <img alt="Buitrago" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Buitrago_del_Lozoya_-_04.jpg" width={"700px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
-        <img alt="Buitrago" src="https://www.descubrir.com/wp-content/uploads/2020/05/buitrago5.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Buitrago" src="https://media.traveler.es/photos/613771593decec3303bac0bb/16:9/w_2112,h_1188,c_limit/127480.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Buitrago" src="https://www.tur4all.com/images/31542" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Buitrago" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Buitrago_del_Lozoya_-_04.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Buitrago" src="https://www.descubrir.com/wp-content/uploads/2020/05/buitrago5.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Buitrago" src="https://media.traveler.es/photos/613771593decec3303bac0bb/16:9/w_2112,h_1188,c_limit/127480.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Buitrago" src="https://www.tur4all.com/images/31542" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginTop: "2em"}}>
             ¿Apetece una escapadita al norte de Madrid, cielo?
         </p>

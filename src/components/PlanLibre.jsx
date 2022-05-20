@@ -18,7 +18,7 @@ function PlanLibre()
             </ul>
         </p>
         <h4 style={{paddingLeft: "1.25em"}}>Lienzo en blanco para que escojas</h4>
-        <img alt="PlanLibre" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShiVBlQgj8yL9yWMxJem78D2kymEMNO8VY2w&usqp=CAU" width={"650px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="PlanLibre" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShiVBlQgj8yL9yWMxJem78D2kymEMNO8VY2w&usqp=CAU" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginTop: "2em"}}>
             Es tu hora de elegir, pequeña.
         </p>

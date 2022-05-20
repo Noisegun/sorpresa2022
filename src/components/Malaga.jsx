@@ -15,7 +15,7 @@ function Malaga()
             que es una de las alternativas que hay alrededor, pero claro, también puedes escoger algo totalmente diferente, que sea vivir en la habitación y no salir nada más que para comer.
             Y que nos traigan el champán a la habitación y todo...
         </p>
-        <img alt="Hotel Sol Guadalmar" src="https://pix10.agoda.net/hotelImages/4890958/0/e15228b84b017c1d668eb39ab4bfb51e.jpg?ca=9&ce=1&s=1024x768" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Sol Guadalmar" src="https://pix10.agoda.net/hotelImages/4890958/0/e15228b84b017c1d668eb39ab4bfb51e.jpg?ca=9&ce=1&s=1024x768" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Pero si quieres hacer turismo, esto es lo que tenemos alrededor del hotel: Málaga ciudad, Marbella, Puerto Banús, Fuengirola, Benalmádena y Torremolinos, entre otras muchas cosas...
             Aquí en esta zona para comer en cualquier sitio que busquemos en los alrededores con buena puntuación nos servirá. Además, estoy convencido de que si escoges moverte por aquí en vez

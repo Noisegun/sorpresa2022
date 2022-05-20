@@ -13,10 +13,10 @@ function Racing()
             o incluso hagamos una excursión, pudiendo ir a un lugar tranquilo donde tú lo conduzcas un poquito y al menos tengas
             esa experiencia con tu coche favorito.
         </p>
-        <img alt="Range1" src="https://www.renovatioexperience.com/wp-content/uploads/4-IMG_1199.jpg" width={"700px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
-        <img alt="Range2" src="https://www.renovatioexperience.com/wp-content/uploads/6-IMG_1202.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Range3" src="https://www.renovatioexperience.com/wp-content/uploads/5-IMG_1201.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Range4" src="https://www.renovatioexperience.com/wp-content/uploads/2-IMG_1159.jpg" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Range1" src="https://www.renovatioexperience.com/wp-content/uploads/4-IMG_1199.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Range2" src="https://www.renovatioexperience.com/wp-content/uploads/6-IMG_1202.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Range3" src="https://www.renovatioexperience.com/wp-content/uploads/5-IMG_1201.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Range4" src="https://www.renovatioexperience.com/wp-content/uploads/2-IMG_1159.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginTop: "2em"}}>
             ¿Qué me dices, pequeña, te apetece hacer conmigo esta locura?
         </p>

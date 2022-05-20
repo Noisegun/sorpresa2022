@@ -15,7 +15,7 @@ function Covadonga()
             Has escogido Covadonga, pero también podemos movernos a pueblos cercanos o incluso si quieres visitar Gijón u Oviedo... Tú elegirás. Pero claro, también
             puedes escoger algo totalmente diferente, que sea vivir en la habitación y no salir nada más que para comer. Y que nos traigan el champán a la habitación y todo...
         </p>
-        <img alt="Hotel Arcea Covadonga" src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/15/77/157700_v3.jpeg" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Arcea Covadonga" src="https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/15/77/157700_v3.jpeg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Qué podemos ver en Covadonga y alrededores...
         </p>

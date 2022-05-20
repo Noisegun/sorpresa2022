@@ -15,7 +15,7 @@ function Merida()
             Mérida es una ciudad preciosa llena de historia y posibles lugares de turismo donde aprender y dejarnos llevar por tantísima cultura a nuestro alrededor. Claro que, si no te apetece nada
             más que estar en la habitación sin salir de la misma todo lo posible... Es otra preciosa opción.
         </p>
-        <img alt="Hotel Velada Mérida" src="https://imgs-akamai.mnstatic.com/f3/73/f3731d6005ac76d21c80d0e4f817d7cf.jpg" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Velada Mérida" src="https://imgs-akamai.mnstatic.com/f3/73/f3731d6005ac76d21c80d0e4f817d7cf.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Aquí abajo te dejo unos posibles lugares de turismo en los cuales poder movernos para conocer mejor Mérida.
         </p>

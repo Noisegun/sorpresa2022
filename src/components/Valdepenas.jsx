@@ -15,7 +15,7 @@ function Valdepenas()
             visitándolos. En el caso de que no te apetezca salir del hotel y spa, también podemos darnos un homenaje y estar toda nuestra estancia sin salir, pidiendo champán en
             la habitación... O vino, que aquí seguro que lo sirven riquísimo. También, si lo deseas, podemos visitar alguna bodega, estaré encantado de acompañarte.
         </p>
-        <img alt="Hotel Veracruz y Spa" src="https://cf.bstatic.com/xdata/images/hotel/max500/11297903.jpg?k=faf43e62fa95e47f6203c32f270bde1f4db459e2439fa0a646bb670b7f0ebdcb&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Veracruz y Spa" src="https://cf.bstatic.com/xdata/images/hotel/max500/11297903.jpg?k=faf43e62fa95e47f6203c32f270bde1f4db459e2439fa0a646bb670b7f0ebdcb&o=&hp=1" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Y las posibles bodegas que tenemos alrededor, si quieres visitar alguna, aquí te dejo por aquí una lista de ellas:
         </p>

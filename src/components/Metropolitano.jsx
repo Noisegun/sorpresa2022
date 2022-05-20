@@ -14,10 +14,10 @@ function Metropolitano()
 
            PD: El Calderón fue y será siempre más bonito, pero esto es lo que hay...
         </p>
-        <img alt="Atazar" src="https://cdn2.civitatis.com/espana/madrid/guia/estadio-wanda-metropolitano.jpg" width={"700px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
-        <img alt="Atazar2" src="https://ogotours.es/wp-content/uploads/2019/10/como-ir-estadio-Wanda-Metropolitano.jpg" width={"600px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Atazar3" src="https://i0.wp.com/reinafloraviajes.com/wp-content/uploads/2018/04/Placasjugadoresatl%C3%A9tico-e1563476207356.jpg?resize=750%2C422&ssl=1" width={"700px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Atazar4" src="https://www.entradas.com/obj/media/ES-eventim/galery/kuenstler/a/AtletiTour2.jpg" width={"600px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Atazar" src="https://cdn2.civitatis.com/espana/madrid/guia/estadio-wanda-metropolitano.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Atazar2" src="https://ogotours.es/wp-content/uploads/2019/10/como-ir-estadio-Wanda-Metropolitano.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Atazar3" src="https://i0.wp.com/reinafloraviajes.com/wp-content/uploads/2018/04/Placasjugadoresatl%C3%A9tico-e1563476207356.jpg?resize=750%2C422&ssl=1" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Atazar4" src="https://www.entradas.com/obj/media/ES-eventim/galery/kuenstler/a/AtletiTour2.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginTop: "2em"}}>
             ¿Te atreves a conocer un poquito más del Atleti, pequeña?
         </p>

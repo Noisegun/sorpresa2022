@@ -13,10 +13,10 @@ function Conan()
             invito yo, tendré que contarte un poco por encima la historia un poquito más por encima para darte algo más de
             contexto.
         </p>
-        <img alt="Conan1" src="https://i.blogs.es/a81eeb/detective-conan/1366_2000.jpg" width={"450px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
-        <img alt="Conan2" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/651f7505cbfb9937483979db26b40901d874440374ed142b19a902dcd5a19d18._RI_V_TTW_.jpg" width={"450px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Conan3" src="https://i.ytimg.com/vi/6Ap-H0ztTps/maxresdefault.jpg" width={"450px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <img alt="Conan4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KdS8dzkHQARFzkgcDJGi50fNZkDlV880ZA&usqp=CAU" width={"450px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Conan1" src="https://i.blogs.es/a81eeb/detective-conan/1366_2000.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Conan2" src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/651f7505cbfb9937483979db26b40901d874440374ed142b19a902dcd5a19d18._RI_V_TTW_.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Conan3" src="https://i.ytimg.com/vi/6Ap-H0ztTps/maxresdefault.jpg" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <img alt="Conan4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KdS8dzkHQARFzkgcDJGi50fNZkDlV880ZA&usqp=CAU" width={"500px"} style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginTop: "2em"}}>
             ¿Te apetece acompañarme, pequeña?
         </p>

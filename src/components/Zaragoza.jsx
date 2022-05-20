@@ -15,7 +15,7 @@ function Zaragoza()
             es una ciudad preciosa. Preciosa de verdad. La basílica del Pilar, toda la zona de la expo... Y también tiene el centro comercial más grande de España. O al menos lo era hasta la apertura del Oasis
             en Madrid. Aunque yo ya haya estado, creo que te gustaría mucho esta ciudad y por eso la he añadido entre las 12 elecciones.
         </p>
-        <img alt="Hotel Eurostars Zaragoza" src="https://y.cdrst.com/foto/hotel-sf/d1e5/granderesp/eurostars-zaragoza-exterior-be82b1e.jpg" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Eurostars Zaragoza" src="https://y.cdrst.com/foto/hotel-sf/d1e5/granderesp/eurostars-zaragoza-exterior-be82b1e.jpg" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Pero si no quieres hacer turismo, siempre podemos quedarnos en la habitación del hotel como dos enamorados, tomando champán y salir de cuando en cuando nada más...
         </p>

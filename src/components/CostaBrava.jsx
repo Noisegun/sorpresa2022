@@ -15,7 +15,7 @@ function CostaBrava()
             en la provincia de Girona muy cerquita de Palamós. La verdad, en los alrededores más allá de pueblecitos y cosas así no creo que haya, pero siempre podemos quedarnos en la comodidad de
             la habitación los dos juntitos y pedir champán...
         </p>
-        <img alt="Hotel RVHotels NauticPark" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/aa/cb/f0/alegria-nautic-park-general.jpg?w=900&h=-1&s=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel RVHotels NauticPark" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/aa/cb/f0/alegria-nautic-park-general.jpg?w=900&h=-1&s=1" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Estas son algunas zonas cercanas que tenemos por si quisieras hacer turismo.
         </p>
