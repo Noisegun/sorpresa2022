@@ -14,7 +14,7 @@ function LaRioja()
             Primero de los paraísos de España famoso y conocido por el vino. A mí no me gusta mucho, pero sé que puede encantarte este destino... Así que, si no te apetece visitar ninguna
             bodega, tenemos Logroño a nuestros pies para poder explorar juntos. Y si quieres ir a alguna bodega, estaré encantado de acompañarte.
         </p>
-        <img alt="Hotel Eurostars Marqués de Vallejo" src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/303508158.jpg?k=033b08ab92d295382c92cb779f15212bf107e3fc754d41c603469ca386d50cf8&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Eurostars Marqués de Vallejo" src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/303508158.jpg?k=033b08ab92d295382c92cb779f15212bf107e3fc754d41c603469ca386d50cf8&o=&hp=1" width={"500px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             Para hacer turismo en Logroño tenemos la muralla del Revellín, la calle Portales, la concatedral de Logroño, el Casco Antiguo, el famoso puente de Piedra, la plaza de Santiago y el
             paseo del Espolón.
