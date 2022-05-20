@@ -2,7 +2,7 @@ function Metropolitano()
 {
     return(<>
         <div style={{margin: "2em"}}>
-            <h1>Plan de... ¡Metropolitano!</h1>
+            <h1>Plan del... ¡Metropolitano!</h1>
         </div>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginBottom: "2em"}}>
            Tenía que estar. No me mires así, era algo que tenía que estar sí o sí, luego ya si no quieres hacerlo lo entendería

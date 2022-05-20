@@ -2,7 +2,7 @@ function PlanLibre()
 {
     return(<>
         <div style={{margin: "2em"}}>
-            <h1>Plan del... ¡Libre Elección!</h1>
+            <h1>Plan de... ¡Libre Elección!</h1>
         </div>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginBottom: "2em"}}>
             Porque está muy bien que yo me haya tirado semanas pensando en posibles planes y escogiendo alrededor de 20 posibilidades

@@ -2,7 +2,7 @@ function Jarama()
 {
     return(<>
         <div style={{margin: "2em"}}>
-            <h1>Plan del... ¡Jarama!</h1>
+            <h1>Plan del... ¡Circuito del Jarama!</h1>
         </div>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify", marginBottom: "2em"}}>
             Este plan es uno de los que más ilusión me hace realizar contigo. Está pendiente aún de que confirmen que van a repetir
