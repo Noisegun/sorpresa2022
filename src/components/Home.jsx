@@ -27,7 +27,7 @@ function Home ()
                   </NavLink>
                 </div>
                 <div className="card" style={{width: "10rem", height: "10rem", textAlign: "center", marginLeft: "1em"}}>
-                  <NavLink className="nav-link" to="/Langreo">
+                  <NavLink className="nav-link" to="/Covadonga">
                     <div style={{paddingTop: "4em"}}>Opción 4</div>
                   </NavLink>
                 </div>

@@ -2,68 +2,76 @@ function LaRioja()
 {
     return(<>
         <div style={{margin: "2em"}}>
-            <h1>Has escogido... ¡La Rioja!</h1>
+            <h1>Has escogido... ¡Logroño!</h1>
             <h3>Durante 3 días (o 3 noches y 4 días) estaremos aquí...</h3>
             <div className="mapouter">
                 <div className="gmap_canvas">
-                    <iframe width="1000" title="Aldea del Obispo" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Aldea%20del%20Obispo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
+                    <iframe width="1000" title="Logrono" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Eurostars%20Marques%20de%20Vallejo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
                 </div>
             </div>
         </div>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Este plan es un poco diferente a lo que estás acostumbrada. O no. No importa. Estas son las alternativas alrededor, pero claro, también
-            puedes escoger algo totalmente diferente, que sea vivir en la habitación y no salir nada más que para comer. Y que nos traigan el champán
-            a la habitación y todo...
+            Primero de los paraísos de España famoso y conocido por el vino. A mí no me gusta mucho, pero sé que puede encantarte este destino... Así que, si no te apetece visitar ninguna
+            bodega, tenemos Logroño a nuestros pies para poder explorar juntos. Y si quieres ir a alguna bodega, estaré encantado de acompañarte.
         </p>
-        <img alt="Hotel Eurostars Aldea del Obispo" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/267161955.jpg?k=95a72c1af652db7fe4d5288d94e310bda63e0c5a76e33a8c4a667951ec0a048b&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Eurostars Marqués de Vallejo" src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/303508158.jpg?k=033b08ab92d295382c92cb779f15212bf107e3fc754d41c603469ca386d50cf8&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Pero si quieres hacer turismo, esto es lo que tenemos. Alrededor del Hotel reconstruido en un fuerte, tenemos el pueblo en sí mismo de Aldea del Obispo, pero también tenemos Almeida (Portugal),
-            el Yacimiento Arqueológico Siega Verde y como gran ciudad cercana, Ciudad Rodrigo.
+            Para hacer turismo en Logroño tenemos la muralla del Revellín, la calle Portales, la concatedral de Logroño, el Casco Antiguo, el famoso puente de Piedra, la plaza de Santiago y el
+            paseo del Espolón.
         </p>
-        <h4 style={{paddingLeft: "1.25em"}}>Almeida</h4>
-        <img src="https://photo980x880.mnstatic.com/288d254e08cb8e045119ac8473a4dc49/almeida_portugal-7863392.jpg" width={"500px"} alt="Almeida" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Calle Portales</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Calle_Portales._Logro%C3%B1o.jpg" width={"500px"} alt="calle Portales" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Puente de Piedra</h4>
+        <img src="https://www.lariojasinbarreras.org/wp-content/uploads/2018/10/ponte-sobre-o-rio-ebro-logrono-espanha_1398-4732.jpg" width={"500px"} alt="Puente de Piedra" style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            En Almeida, los puntos de interés son los siguientes:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Castillo de Almeida</li>
-                <li>Picadeiro d'el Rey</li>
-                <li>Torre do Relogio de Almeida</li>
-            </ul>
-        </p>
-        <h4 style={{paddingLeft: "1.25em"}}>Ciudad Rodrigo</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/RI-53-0000010.jpg" width={"500px"} alt="Ciudad Rodrigo" style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            En Ciudad Rodrigo tenemos los siguientes puntos de interés:
+            Y las posibles bodegas que tenemos alrededor, si quieres visitar alguna, aquí te dejo por aquí una lista de ellas:
         </p>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
             <ul>
-                <li>Murallas</li>
-                <li>Catedral de Santa María</li>
-                <li>Castillo de Enrique II</li>
-                <li>Plaza Mayor</li>
-                <li>Plaza del Buen Alcalde</li>
-                <li>Palacio de Moctezuma</li>
-                <li>Plaza del Conde</li>
-                <li>Tres Columnas</li>
+                <li>
+                    <a href="https://www.francoespanolas.com" target="_blank" rel="noreferrer noopener">
+                    Bodegas Franco-españolas
+                    </a>
+                </li>
+                <li>
+                    <a href="https://marquesdemurrieta.com" target="_blank" rel="noreferrer noopener">
+                    Bodegas Marqués de Murrieta
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.campoviejo.com/" target="_blank" rel="noreferrer noopener">
+                    Bodegas Campo Viejo
+                    </a>
+                </li>
+                <li>
+                    <a href="https://ijalba.com/" target="_blank" rel="noreferrer noopener">
+                    Bodegas Viña Ijalba
+                    </a>
+                </li>
+                <li>
+                    <a href="https://cvne.com/bodegas/vina-real/" target="_blank" rel="noreferrer noopener">
+                    Bodega Viña Real
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.grupobodegasolarra.com" target="_blank" rel="noreferrer noopener">
+                    Bodegas Olarra
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.marquesdevargas.com/es" target="_blank" rel="noreferrer noopener">
+                    Bodegas Marqués de Vargas
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.ontanon.es" target="_blank" rel="noreferrer noopener">
+                    Bodegas Ontañón
+                    </a>
+                </li>
             </ul>
         </p>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Y para comer, tenemos estos sitios sí o sí:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Mesón de La Paloma</li>
-                <li>La Canóniga</li>
-            </ul>
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Y luego, el propio Yacimiento Arqueológico de Siega Verde...
-        </p>
-        <img src="https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/siega-verde.ficheros/39902-37145_SC_5.jpg?clipX=0&clipY=27&clipWidth=1440&clipHeight=520" width={"500px"} alt="Siega Verde" style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            ¿Estás lista para la aventura, pequeña?
+            ¿Hace una copita de vino, pequeña?
         </p>
     </>);
 }

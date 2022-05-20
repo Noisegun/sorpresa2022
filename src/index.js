@@ -13,6 +13,7 @@ import Metropolitano from './components/Metropolitano';
 import Escorial from './components/Escorial';
 import Buitrago from './components/Buitrago';
 import Robledo from './components/Robledo';
+import Restaurantes from './components/Restaurantes';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -21,6 +22,7 @@ root.render(
       <Rutas />
         <Routes>
           <Route path='/' element={<Home/>} />
+          <Route path="/Restaurantes" element={<Restaurantes/>} />
           <Route path='/AldeaObispo' element={<AldeaObispo/>} />
           <Route path='/Malaga' element={<Malaga/>} />
           <Route path="/SanSebastian" element={<SanSebastian />} />

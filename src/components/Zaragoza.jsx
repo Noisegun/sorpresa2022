@@ -6,64 +6,33 @@ function Zaragoza()
             <h3>Durante 3 días (o 3 noches y 4 días) estaremos aquí...</h3>
             <div className="mapouter">
                 <div className="gmap_canvas">
-                    <iframe width="1000" title="Aldea del Obispo" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Aldea%20del%20Obispo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
+                    <iframe width="1000" title="Zaragoza" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Eurostars%20Rey%20Fernando&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
                 </div>
             </div>
         </div>
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Este plan es un poco diferente a lo que estás acostumbrada. O no. No importa. Estas son las alternativas alrededor, pero claro, también
-            puedes escoger algo totalmente diferente, que sea vivir en la habitación y no salir nada más que para comer. Y que nos traigan el champán
-            a la habitación y todo...
+            Este plan tenía que estar. Existe un 12,5% de probabilidades de que lo escojas, pero la ciudad de Zaragoza bien merece esa oportunidad. No es la ciudad que mejores recuerdos me trae, sin embargo,
+            es una ciudad preciosa. Preciosa de verdad. La basílica del Pilar, toda la zona de la expo... Y también tiene el centro comercial más grande de España. O al menos lo era hasta la apertura del Oasis
+            en Madrid. Aunque yo ya haya estado, creo que te gustaría mucho esta ciudad y por eso la he añadido entre las 12 elecciones.
         </p>
-        <img alt="Hotel Eurostars Aldea del Obispo" src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/267161955.jpg?k=95a72c1af652db7fe4d5288d94e310bda63e0c5a76e33a8c4a667951ec0a048b&o=&hp=1" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
+        <img alt="Hotel Eurostars Zaragoza" src="https://y.cdrst.com/foto/hotel-sf/d1e5/granderesp/eurostars-zaragoza-exterior-be82b1e.jpg" width={"800px"} style={{paddingLeft: "2em", paddingBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Pero si quieres hacer turismo, esto es lo que tenemos. Alrededor del Hotel reconstruido en un fuerte, tenemos el pueblo en sí mismo de Aldea del Obispo, pero también tenemos Almeida (Portugal),
-            el Yacimiento Arqueológico Siega Verde y como gran ciudad cercana, Ciudad Rodrigo.
+            Pero si no quieres hacer turismo, siempre podemos quedarnos en la habitación del hotel como dos enamorados, tomando champán y salir de cuando en cuando nada más...
         </p>
-        <h4 style={{paddingLeft: "1.25em"}}>Almeida</h4>
-        <img src="https://photo980x880.mnstatic.com/288d254e08cb8e045119ac8473a4dc49/almeida_portugal-7863392.jpg" width={"500px"} alt="Almeida" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Plaza del Pilar</h4>
+        <img src="https://www.aragonmusical.com/wp-content/uploads/2016/09/plazadelpilar.jpg" width={"500px"} alt="Plaza Pilar" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Palacio de la Aljafería</h4>
+        <img src="https://interrailero.com/wp-content/uploads/2020/01/que-ver-en-zaragoza-en-un-dia-1024x682.jpeg" width={"500px"} alt="Palacio Aljafería" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Catedral San Salvador</h4>
+        <img src="https://interrailero.com/wp-content/uploads/2020/01/que-ver-en-la-provincia-de-zaragoza-683x1024.jpeg" width={"500px"} alt="Catedral" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Museo de Caesaragusta - Teatro</h4>
+        <img src="https://interrailero.com/wp-content/uploads/2020/01/que-ver-en-zaragoza-capital-768x1024.jpeg" width={"500px"} alt="Caesaraugusta" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Puente de Piedra</h4>
+        <img src="https://interrailero.com/wp-content/uploads/2020/01/que-ver-en-zaragoza-en-dos-dias-1024x633.jpeg" width={"500px"} alt="Piedra" style={{paddingLeft: "2em", marginBottom: "1em"}} />
+        <h4 style={{paddingLeft: "1.25em"}}>Balcón de San Lázaro</h4>
+        <img src="https://interrailero.com/wp-content/uploads/2020/01/que-ver-en-zaragoza-y-alrededores-1024x682.jpeg" width={"500px"} alt="San Lázaro" style={{paddingLeft: "2em", marginBottom: "1em"}} />
         <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            En Almeida, los puntos de interés son los siguientes:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Castillo de Almeida</li>
-                <li>Picadeiro d'el Rey</li>
-                <li>Torre do Relogio de Almeida</li>
-            </ul>
-        </p>
-        <h4 style={{paddingLeft: "1.25em"}}>Ciudad Rodrigo</h4>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/RI-53-0000010.jpg" width={"500px"} alt="Ciudad Rodrigo" style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            En Ciudad Rodrigo tenemos los siguientes puntos de interés:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Murallas</li>
-                <li>Catedral de Santa María</li>
-                <li>Castillo de Enrique II</li>
-                <li>Plaza Mayor</li>
-                <li>Plaza del Buen Alcalde</li>
-                <li>Palacio de Moctezuma</li>
-                <li>Plaza del Conde</li>
-                <li>Tres Columnas</li>
-            </ul>
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Y para comer, tenemos estos sitios sí o sí:
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            <ul>
-                <li>Mesón de La Paloma</li>
-                <li>La Canóniga</li>
-            </ul>
-        </p>
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            Y luego, el propio Yacimiento Arqueológico de Siega Verde...
-        </p>
-        <img src="https://www.turismocastillayleon.com/es/arte-cultura-patrimonio/yacimientos-arqueologicos/siega-verde.ficheros/39902-37145_SC_5.jpg?clipX=0&clipY=27&clipWidth=1440&clipHeight=520" width={"500px"} alt="Siega Verde" style={{paddingLeft: "2em", marginBottom: "1em"}} />
-        <p style={{paddingLeft: "2em", paddingRight: "2em", textAlign: "justify"}}>
-            ¿Estás lista para la aventura, pequeña?
+            ¿Estás lista para que te enseñe esta maravillosa ciudad, pequeña?
         </p>
     </>);
 }
