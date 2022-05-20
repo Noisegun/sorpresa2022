@@ -11,7 +11,7 @@ function Galicia()
         </p>
         <div className="mapouter" style={{margin: "2em"}}>
             <div className="gmap_canvas">
-                <iframe width="1000" title="Vilavella" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Hotel%20Vilavella&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
+                <iframe width="470" title="Vilavella" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Hotel%20Vilavella&t=&z=13&ie=UTF8&iwloc=&output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"/>
             </div>
         </div>
         <h4 style={{paddingLeft: "1.25em"}}>Hotel Vilavella - Spa</h4>
