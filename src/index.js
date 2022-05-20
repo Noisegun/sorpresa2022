@@ -3,7 +3,7 @@ import './index.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Home, Rutas, AldeaObispo, Malaga, SanSebastian, 
          Covadonga, Galicia, Sevilla, LaRioja, Valdepenas,
-         Zaragoza, Valencia, Barcelona, Merida } from './components/navigation';
+         Zaragoza, Valencia, CostaBrava, Merida } from './components/navigation';
 import Jarama from './components/Jarama';
 import Conan from './components/Conan';
 import Lavanda from './components/Lavanda';
@@ -33,7 +33,7 @@ root.render(
           <Route path="/Valdepenas" element={<Valdepenas/>} />
           <Route path="/Zaragoza" element={<Zaragoza/>} />
           <Route path="/Valencia" element={<Valencia/>} />
-          <Route path="/Barcelona" element={<Barcelona/>} />
+          <Route path="/CostaBrava" element={<CostaBrava/>} />
           <Route path="/Merida" element={<Merida/>} />
           <Route path="/Jarama" element={<Jarama/>} />
           <Route path="/Conan" element={<Conan/>} />

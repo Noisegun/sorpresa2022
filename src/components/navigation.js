@@ -10,5 +10,5 @@ export {default as LaRioja} from "./LaRioja";
 export {default as Valdepenas} from "./Valdepenas";
 export {default as Zaragoza} from "./Zaragoza";
 export {default as Valencia} from "./Valencia";
-export {default as Barcelona} from "./Barcelona";
+export {default as CostaBrava} from "./CostaBrava";
 export {default as Merida} from "./Merida";
